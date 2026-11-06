@@ -1,0 +1,65 @@
+{
+  "name": "Work log",
+  "description": "Capture progress, learning, and the next step.",
+  "title": "[Log] ",
+  "labels": [
+    "type:log"
+  ],
+  "body": [
+    {
+      "type": "textarea",
+      "id": "session",
+      "attributes": {
+        "label": "Session and related task",
+        "description": "Date, project, and task issue link."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "progress",
+      "attributes": {
+        "label": "What changed",
+        "description": "What did you build, investigate, or try?"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "evidence",
+      "attributes": {
+        "label": "Evidence",
+        "description": "Link a commit, PR, demo, screenshot, or experiment result."
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "learning",
+      "attributes": {
+        "label": "What I learned",
+        "description": "Include failed attempts and surprises."
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "next",
+      "attributes": {
+        "label": "Next step",
+        "description": "What will happen next? Mention any help needed."
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}

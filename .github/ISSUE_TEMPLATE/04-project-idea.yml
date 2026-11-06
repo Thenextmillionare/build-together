@@ -1,0 +1,54 @@
+{
+  "name": "Project idea",
+  "description": "Propose something interesting to build together.",
+  "title": "[Idea] ",
+  "labels": [
+    "type:idea"
+  ],
+  "body": [
+    {
+      "type": "textarea",
+      "id": "problem",
+      "attributes": {
+        "label": "Problem and audience",
+        "description": "Who would benefit and why?"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "demo",
+      "attributes": {
+        "label": "First demo",
+        "description": "Describe the smallest useful version."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "learning",
+      "attributes": {
+        "label": "What we would learn",
+        "description": "Skills, concepts, or questions to explore."
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "scope",
+      "attributes": {
+        "label": "Effort and constraints",
+        "description": "A rough timebox, dependencies, and what to leave for later."
+      },
+      "validations": {
+        "required": false
+      }
+    }
+  ]
+}

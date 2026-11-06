@@ -1,0 +1,47 @@
+[
+  {
+    "name": "type:task",
+    "color": "2563eb",
+    "description": "A scoped piece of work with a clear outcome"
+  },
+  {
+    "name": "type:log",
+    "color": "0d9488",
+    "description": "A session update or learning log"
+  },
+  {
+    "name": "type:review",
+    "color": "7c3aed",
+    "description": "A question or request for mentor feedback"
+  },
+  {
+    "name": "type:idea",
+    "color": "d97706",
+    "description": "An idea to explore together"
+  },
+  {
+    "name": "status:next",
+    "color": "cbd5e1",
+    "description": "Ready to pick up"
+  },
+  {
+    "name": "status:doing",
+    "color": "3b82f6",
+    "description": "Actively being worked on"
+  },
+  {
+    "name": "status:blocked",
+    "color": "dc2626",
+    "description": "Needs help or a dependency"
+  },
+  {
+    "name": "status:review",
+    "color": "a855f7",
+    "description": "Ready for feedback"
+  },
+  {
+    "name": "priority:high",
+    "color": "ea580c",
+    "description": "Needs attention ahead of other work"
+  }
+]

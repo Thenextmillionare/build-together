@@ -1,0 +1,55 @@
+{
+  "name": "Mentor review",
+  "description": "Ask a focused question or get unstuck.",
+  "title": "[Review] ",
+  "labels": [
+    "type:review",
+    "status:review"
+  ],
+  "body": [
+    {
+      "type": "textarea",
+      "id": "question",
+      "attributes": {
+        "label": "Question or decision",
+        "description": "What specific input would help?"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "context",
+      "attributes": {
+        "label": "Context and attempts",
+        "description": "Link the task and explain what you have already tried."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "artifact",
+      "attributes": {
+        "label": "What to review",
+        "description": "Link a branch, PR, demo, document, or paste a small example."
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "unblock",
+      "attributes": {
+        "label": "Desired outcome",
+        "description": "What would let you move forward?"
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}

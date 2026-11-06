@@ -1,0 +1,55 @@
+{
+  "name": "Task",
+  "description": "Plan a small, demonstrable piece of work.",
+  "title": "[Task] ",
+  "labels": [
+    "type:task",
+    "status:next"
+  ],
+  "body": [
+    {
+      "type": "textarea",
+      "id": "outcome",
+      "attributes": {
+        "label": "Outcome",
+        "description": "What should be possible when this is done?"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "acceptance",
+      "attributes": {
+        "label": "Done when",
+        "description": "Write a short, testable checklist."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "approach",
+      "attributes": {
+        "label": "Approach and context",
+        "description": "Link the project, dependencies, and any useful references."
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "evidence",
+      "attributes": {
+        "label": "Evidence / demo",
+        "description": "Add results here as work progresses."
+      },
+      "validations": {
+        "required": false
+      }
+    }
+  ]
+}
