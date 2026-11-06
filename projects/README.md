@@ -1,7 +1,13 @@
 # Projects
 
-A home for things we build and experiments we want to understand.
+## Active: AI Video Script Model
 
-Start with a **Project idea** issue. Once you agree to pursue it, copy [PROJECT_TEMPLATE.md](PROJECT_TEMPLATE.md) to `<project-name>/README.md` and keep the code, examples, and run instructions beside it.
+Train a custom model on example scripts for AI-generated videos. **Current phase: create or collect the dataset.**
 
-No project has been selected yet. Keep ideas in Issues until they have an agreed outcome.
+[Project brief](ai-video-script-model/README.md) · [Dataset guide](ai-video-script-model/data/README.md) · [Evaluation plan](ai-video-script-model/EVALUATION.md)
+
+The first milestone is an approved pilot dataset and a clear output contract. No model has been trained yet.
+
+## Start another project
+
+Open a Project idea issue, agree on an outcome, then copy [PROJECT_TEMPLATE.md](PROJECT_TEMPLATE.md) into a new project folder.

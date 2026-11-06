@@ -23,6 +23,10 @@
 | Prepare for our next conversation | [Meeting notes](meetings/README.md) |
 | Contribute code or improve the workspace | [Contribution guide](CONTRIBUTING.md) |
 
+## Our first project
+
+**[AI Video Script Model](projects/ai-video-script-model/README.md)** — a custom model trained on example scripts for AI-generated videos. We are starting with dataset creation and collection.
+
 ## Our working rhythm
 
 **Before building:** open a task, agree on what done means, and pick an owner. Keep each task small enough to demonstrate within a week.
