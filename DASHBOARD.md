@@ -2,7 +2,7 @@
 
 > One shared view of the work. Issues are the source of truth.
 
-**Snapshot:** 2026-11-06 23:02 UTC · [All issues](https://github.com/Thenextmillionare/build-together/issues) · [Pull requests](https://github.com/Thenextmillionare/build-together/pulls)
+**Snapshot:** 2026-11-06 23:07 UTC · [All issues](https://github.com/Thenextmillionare/build-together/issues) · [Pull requests](https://github.com/Thenextmillionare/build-together/pulls)
 
 | Open tasks | Blocked items | Awaiting input | Tasks completed · 7 days |
 | :---: | :---: | :---: | :---: |
@@ -12,8 +12,8 @@
 
 | Item | Next action owner | Status | Updated |
 | :--- | :--- | :--- | :--- |
+| [#1 · \[Project\] AI video script model — dataset-first custom training](https://github.com/Thenextmillionare/build-together/issues/1) | Thenextmillionare | doing | 2026-11-06 |
 | [#2 · \[Task\] Agree on our collaboration rhythm](https://github.com/Thenextmillionare/build-together/issues/2) | Thenextmillionare | next | 2026-11-06 |
-| [#1 · \[Task\] Choose our first project and define a one-week demo](https://github.com/Thenextmillionare/build-together/issues/1) | Thenextmillionare | next | 2026-11-06 |
 
 ## Blockers
 
