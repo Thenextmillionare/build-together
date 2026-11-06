@@ -6,11 +6,13 @@
 
 | Open tasks | Blocked items | Awaiting input | Tasks completed · 7 days |
 | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 | 0 |
+| 1 | 0 | 0 | 0 |
 
 ## Active work
 
-No open tasks yet. Pick a first outcome together and create a Task issue.
+| Item | Next action owner | Status | Updated |
+| :--- | :--- | :--- | :--- |
+| [#1 · \[Task\] Choose our first project and define a one-week demo](https://github.com/Thenextmillionare/build-together/issues/1) | Thenextmillionare | next | 2026-11-06 |
 
 ## Blockers
 
